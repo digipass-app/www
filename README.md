@@ -1,7 +1,6 @@
-## [Page: www.digipass.app](https://www.digipass.app/)
 ![1/cover.png](https://logo.digipass.app/1/cover.png)
 
-## be sure!
+## be sure with [digipass.app](https://www.digipass.app/) 
 
 Test yourself now and share the result!
 
@@ -9,3 +8,4 @@ Test yourself now and share the result!
 + fast thanks random test technology
 + cheap and online just 1$
 
+[Test yourself now!](https://www.digipass.app/)
