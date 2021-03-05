@@ -9,3 +9,11 @@ Test yourself now and share the result!
 + cheap and online just 1$
 
 [Test yourself now!](https://www.digipass.app/)
+
+## BG
+
+## PL
+
+## DE
+
+## EE 
