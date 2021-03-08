@@ -12,6 +12,16 @@ Test yourself now and share the result!
 
 [Test yourself now!](https://www.digipass.app/)
 
+A DIGITAL system to identify which passengers have taken a X vaccination is currently in development.
+
++ vaccine certificates
+
+The idea of requiring proof of * vaccinations surfaced last summer, as a way of kick-starting international travel again without further spreading the virus around the world.
+
+While many hailed the idea as a significant step towards reopening society, it must be said that the passports haven't been popular with everyone.
+
+
+
 ## BG
 
 ## PL
@@ -29,6 +39,17 @@ Naszym priorytetem jest przywrócenie branż: lotniczej, podróżniczej, hotelar
 
 Chcemy w ten sposób pokazać rządom na całym świecie, że kontakt z innymi ludźmi jest bezpieczny, po sprawdzeniu przez aplikację DigiPass.app
 
+Obecnie opracowywany jest CYFROWY system identyfikacji pasażerów, którym podano szczepionkę X.
+
+# IATA
+
+Międzynarodowe Stowarzyszenie Transportu Lotniczego (IATA), które reprezentuje główne linie lotnicze na całym świecie, opracowuje plany wprowadzenia nowej platformy, która będzie używana przez linie lotnicze i na lotniskach na całym świecie.
+
+System, do którego można uzyskać dostęp online, pozwoliłby pasażerom udowodnić, że otrzymali szczepionkę na koronawirusa, umożliwiając im w ten sposób bezpieczne podróżowanie.
+
+Paszporty szczepień pasażera byłyby cyfrowo powiązane z ich zwykłym paszportem, ale rozumie się, że aby latać na długich dystansach, pasażerowie będą potrzebować obu paszportów.
+
+IATA podkreśla, że taki krok jest konieczny, aby bezpiecznie uruchomić światową branżę turystyczną.
 
 # Rozwiązania
 
@@ -69,9 +90,11 @@ Jedną z największych obaw pasażerów jest kwestia prywatności i ochrony dany
 
 + To absolutnie kluczowa sprawa. Nie ma tu żadnego Wielkiego Brata, a IATA nie ma dostępu do żadnych danych. My po prostu tworzymy mechanizm ułatwiający transfer danych z telefonu pasażera – mówi Hayden.
 
++ Ryanair, na przykład, konsekwentnie powtarzał, że nie będzie wymagał od pasażerów okazania dowodu szczepienia, argumentując, że robienie tego w przypadku osób podróżujących do miejsc w Europie jest bezcelowe, ponieważ mogą z łatwością odbyć tę samą podróż samochodem, w którym nie ma paszportu szczepionkowego. wymagany. 
 
++ W zeszłym miesiącu australijskie linie lotnicze Qantas ogłosiły, że będą chciały wdrożyć taki system dla wszystkich swoich pasażerów, aby zagwarantować bezpieczeństwo i integralność granic Australii.
 
-Korzystanie z aplikacji nie będzie obowiązkowe, ale przewoźnicy są spokojni o to, że pasażerowie będą korzystali z DigiPass.app
++ Korzystanie z aplikacji nie będzie obowiązkowe, ale przewoźnicy są spokojni o to, że pasażerowie będą korzystali z DigiPass.app
 
-Według wiceprezesa Singapore Airlines, ręczna weryfikacja posiadanych dokumentów przed podróżą będzie potrzebna dla 10-20 procent pasażerów.
++ Według wiceprezesa Singapore Airlines, ręczna weryfikacja posiadanych dokumentów przed podróżą będzie potrzebna dla 10-20 procent pasażerów.
 
