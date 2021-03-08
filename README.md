@@ -45,7 +45,7 @@ Obecnie opracowywany jest CYFROWY system identyfikacji pasażerów, którym poda
 
 Międzynarodowe Stowarzyszenie Transportu Lotniczego (IATA), które reprezentuje główne linie lotnicze na całym świecie, opracowuje plany wprowadzenia nowej platformy, która będzie używana przez linie lotnicze i na lotniskach na całym świecie.
 
-System, do którego można uzyskać dostęp online, pozwoliłby pasażerom udowodnić, że otrzymali szczepionkę na koronawirusa, umożliwiając im w ten sposób bezpieczne podróżowanie.
+System, do którego można uzyskać dostęp online, pozwoliłby pasażerom udowodnić, że otrzymali szczepionkę na X, umożliwiając im w ten sposób bezpieczne podróżowanie.
 
 Paszporty szczepień pasażera byłyby cyfrowo powiązane z ich zwykłym paszportem, ale rozumie się, że aby latać na długich dystansach, pasażerowie będą potrzebować obu paszportów.
 
@@ -59,7 +59,7 @@ Na razie wiemy tyle, że produkt nie będzie adresowany bezpośrednio do pasaże
 
 DigiPass.app ma zawierać informację na temat naszego stanu zdrowia, w szczególności kwestii wirusów. 
 
-Znajdzie się tam informacja na temat testów na koronawirusa, które przeszliśmy, ewentualnego szczepienia, a także wymogi, które musimy spełnić, aby móc bezpiecznie podróżować do danego kraju. 
+Znajdzie się tam informacja na temat testów na X, które przeszliśmy, ewentualnego szczepienia, a także wymogi, które musimy spełnić, aby móc bezpiecznie podróżować do danego kraju. 
 
 Po spełnieniu wszelkich wymogów pasażer otrzyma adnotację 
 
