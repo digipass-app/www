@@ -26,6 +26,9 @@ While many hailed the idea as a significant step towards reopening society, it m
 
 ## PL
 
+[Jak to robią w EU](EU.md)
+
+
 ## DE
 
 ## EE 
