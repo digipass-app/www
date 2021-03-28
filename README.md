@@ -29,7 +29,8 @@ While many hailed the idea as a significant step towards reopening society, it m
 [Jak to robią w EU](EU.md)
 ![colors](colors.png)
 
-https://www.governor.ny.gov/news/governor-cuomo-announces-launch-excelsior-pass-help-fast-track-reopening-businesses-and
+[DIGIPASS EU](DIGIPASS-EU.md)
+
 
 ## DE
 
