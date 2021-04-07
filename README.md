@@ -104,3 +104,14 @@ Jedną z największych obaw pasażerów jest kwestia prywatności i ochrony dany
 
 + Według wiceprezesa Singapore Airlines, ręczna weryfikacja posiadanych dokumentów przed podróżą będzie potrzebna dla 10-20 procent pasażerów.
 
+----------
+
++ Czy szczepionka likwiduje maski? NIE
++ Czy szczepionka likwiduje dystans? NIE
++ Czy szczepionka wyeliminuje testy? NIE
++ Czy szczepienia likwiduje zakażenia? NIE
++ Czy jesteś tym eksperymentem zaszczepiony, czy nie, cały reżim obowiązuje Cię nadal.
+
+Zatem, co eliminuje szczepionka...
+Przypominam, że PRAWDZIWYM wirusem, który od lat próbują w nas zaszczepić i który powoduje największe szkody wśród ludzi, jest STRACH!
+A najlepszym lekarstwem na strach, jest nasza świadomość, że to tylko ILUZJA
