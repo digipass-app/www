@@ -115,3 +115,9 @@ Jedną z największych obaw pasażerów jest kwestia prywatności i ochrony dany
 Zatem, co eliminuje szczepionka...
 Przypominam, że PRAWDZIWYM wirusem, który od lat próbują w nas zaszczepić i który powoduje największe szkody wśród ludzi, jest STRACH!
 A najlepszym lekarstwem na strach, jest nasza świadomość, że to tylko ILUZJA
+
+
+## Panoptykon 4.0
+Na pierwszy rzut oka nic takiego się nie dzieje. Pomysł paszportów COVIDowych to jakby jedynie kontynuacja dotychczasowych rozwiązań: książeczek z zarejestrowanymi odbytymi szczepieniami. nie są nowością. Jednak nowością nie jest także to, że jeśli ktoś posiada o nas jakąś wiedzę, będzie mógł zapewne użyć jej także w sposób inny, niż deklarowany - zwłaszcza, jeśli tę wiedzę posiada państwo. A przecież dane o szczepieniach trafią też do podmiotów prywatnych, jak np. biura podróży czy linie lotnicze.
+
+czy cyfrowe paszporty potwierdzające szczepienie na COVID będą służyły wyłącznie na granicy, czy dojdzie do nowej kategoryzacji ludzi, czy sami sobie urządzimy stygmatyzację, co może przynieść ogólnoeuropejska baza danych o szczepieniach zwracam się do mojego rozmówcy, którym jest dziś dr Jędrzej Niklas z Uniwersytetu w Cardiff, wcześniej: London School of Economics, a jeszcze wcześniej - fundacja Panoptykon.
