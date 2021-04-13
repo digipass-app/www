@@ -121,3 +121,23 @@ A najlepszym lekarstwem na strach, jest nasza świadomość, że to tylko ILUZJA
 Na pierwszy rzut oka nic takiego się nie dzieje. Pomysł paszportów COVIDowych to jakby jedynie kontynuacja dotychczasowych rozwiązań: książeczek z zarejestrowanymi odbytymi szczepieniami. nie są nowością. Jednak nowością nie jest także to, że jeśli ktoś posiada o nas jakąś wiedzę, będzie mógł zapewne użyć jej także w sposób inny, niż deklarowany - zwłaszcza, jeśli tę wiedzę posiada państwo. A przecież dane o szczepieniach trafią też do podmiotów prywatnych, jak np. biura podróży czy linie lotnicze.
 
 czy cyfrowe paszporty potwierdzające szczepienie na COVID będą służyły wyłącznie na granicy, czy dojdzie do nowej kategoryzacji ludzi, czy sami sobie urządzimy stygmatyzację, co może przynieść ogólnoeuropejska baza danych o szczepieniach zwracam się do mojego rozmówcy, którym jest dziś dr Jędrzej Niklas z Uniwersytetu w Cardiff, wcześniej: London School of Economics, a jeszcze wcześniej - fundacja Panoptykon.
+
+
+# Bezprzewodowe testowanie
+https://forsal.pl/lifestyle/nauka/artykuly/8138395,testy-na-covid-19-skanowanie-oczu-aplikacja-w-telefonie.html
+
+ Firma z Monachium liczy na to, że pomoże zapoczątkować nową erę testów na obecność koronawirusa za pomocą skanowania oczu przy użyciu aplikacji w telefonie. Jak twierdzi, tylko trzy minuty zajmuje identyfikacja choroby; wskaźnik trafień wynosi 95 proc.
+
+Firma Semic RF opracowała swoją aplikację do skanowania wraz z kolegami ze Stanów Zjednoczonych – podaje agencja Reutera. Oczekując na zatwierdzenie przez organy regulacyjne, ma nadzieję rozpocząć jej wprowadzanie na rynek pod koniec maja – zapowiada dyrektor zarządzający Wolfgang Gruber.
+
+Aplikacja wykorzystuje zdjęcie oka zrobione smartfonem i identyfikuje wirusa na podstawie objawowego zapalenia zwanego "różowym okiem". "Udało nam się wyizolować Covid-19 z ponad dwóch milionów różnych odcieni różu" – mówi Reuterowi Gruber. Jak dodaje, aplikacja została już przetestowana na ponad 70 tys. osób, może przetwarzać do miliona skanów na sekundę i opcję rozszerzenia tej zdolności dalej, potencjalnie umożliwiając tłumom z powrotem masowe uczestnictwo w takich wydarzeniach jak koncerty i mecze piłkarskie.
+Szef WHO: Pandemia koronawirusa jeszcze długo się nie skończy
+Szef WHO: Pandemia koronawirusa jeszcze długo się nie skończy
+
+Zobacz również
+
+"Uruchamiasz aplikację, robisz zdjęcie obu oczu, wysyłasz je do oceny, a następnie możesz mieć oceniony wynik zapisany jako kod QR (Quick Response Code - kod kreskowy pozwalający na zapisanie dużej ilości danych) na smartfonie badanej osoby" - tłumaczy Gruber.
+
+Aplikacja będzie początkowo skierowana do firm i użytkowników komercyjnych, w cenie 480 euro miesięcznie; później planowana jest sprzedaż dla osób prywatnych.
+
+
