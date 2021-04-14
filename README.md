@@ -140,4 +140,19 @@ Zobacz również
 
 Aplikacja będzie początkowo skierowana do firm i użytkowników komercyjnych, w cenie 480 euro miesięcznie; później planowana jest sprzedaż dla osób prywatnych.
 
+# DO czego służą DigiPass
+
+https://businessinsider.com.pl/wiadomosci/certyfikaty-szczepien-nie-tylko-do-swobodnego-podrozowania/tltr62j?utm_source=dlvr.it&utm_medium=linkedin
+  
+
+Reynders przypomniał, że proponowany przez UE certyfikat podróżny zawierałby informacje o szczepieniach, wynikach negatywnego testu lub obecności przeciwciał i byłby ważny do czasu ogłoszenia przez Światową Organizację Zdrowia (WHO) końca pandemii.
+
+"Chcemy dać obywatelom i państwom członkowskim narzędzie, które zapewni niezbędne zaufanie i pewność. Narzędzie, na którym właściwe organy mogą polegać w celu ułatwienia swobodnego przemieszczania się" - oświadczył Belg.
+
+"Podobnie linie lotnicze mogłyby weryfikować ważność certyfikatu w prosty sposób przy odprawie" - dodał.
+Komisarz: samo zaszczepienie nie daje prawa do swobodnego podróżowania
+
+Reynders podkreślał, że świadectwo szczepień nie jest równoznaczne z "paszportem szczepień", ponieważ samo zaszczepienie nie daje ludziom prawa do swobodnego podróżowania. Oznaczałoby to dyskryminację wobec tych, którzy nie mogą bądź nie chcą być zaszczepieni.
+
+
 
