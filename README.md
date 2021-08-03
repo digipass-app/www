@@ -155,4 +155,6 @@ Komisarz: samo zaszczepienie nie daje prawa do swobodnego podróżowania
 Reynders podkreślał, że świadectwo szczepień nie jest równoznaczne z "paszportem szczepień", ponieważ samo zaszczepienie nie daje ludziom prawa do swobodnego podróżowania. Oznaczałoby to dyskryminację wobec tych, którzy nie mogą bądź nie chcą być zaszczepieni.
 
 
+# Dataleaks:
 
+https://ithardware.pl/aktualnosci/wyciek_danych_z_bazy_paszportow_szczepionkowych_covid_19-17256.html
